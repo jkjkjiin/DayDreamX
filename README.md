@@ -1,10 +1,10 @@
 # DayDream X:
 <div align="center">
-        <img src="https://github.com/NightProxy/DayDreamX/blob/main/assets/DDXBanner.png" style="width: 1200px"/>
+        <img src="/assets/DDXBanner.png" style="width: 1200px"/>
     <h2>Explore the Web with DayDream X</h2>
 </div>
 
-![inpreview](https://github.com/NightProxy/DayDreamX/blob/main/assets/daydreamx.png)
+![inpreview](/assets/daydreamx.png)
 
 > [!IMPORTANT]
 > If you fork this repo please consider giving the original repo a
