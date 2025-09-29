@@ -63,7 +63,7 @@ before submitting a pull request. Please check [CONTRIB.md](https://github.com/N
 
 Thank you to the following people for contributing to DayDreamX.
 
-[![Contributors](https://contrib.rocks/image?repo=nightproxy/daydreamx)](https://github.com/NightProxy/DayDreamX/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=NxroProxy/DayDreamX)](https://github.com/NightProxy/DayDreamX/graphs/contributors)
 
 ## Discord
 
