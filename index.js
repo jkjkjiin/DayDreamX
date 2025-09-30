@@ -14,9 +14,9 @@ import { execSync } from "child_process";
 import router from "./srv/router.js";
 import path from "node:path";
 
-const git_url = (await execSync("git config --get remote.origin.url").toString()); 
+const git_url = execSync("git config --get remote.origin.url").toString(); 
 
-const commit = await execSync("git rev-parse HEAD").toString();
+const commit = execSync("git rev-parse HEAD").toString();
 const git = new Git(git_url);
 
 const server = http.createServer();
