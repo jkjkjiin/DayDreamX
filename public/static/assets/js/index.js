@@ -62,6 +62,12 @@ document.addEventListener("DOMContentLoaded", async () => {
       config: __eclipse$config,
       func: null,
     },
+    mr: {
+      type: "mr",
+      file: "/!/sw.js",
+      config: __meteor$config,
+      func: null,
+    },
     ss: {
       type: "iframe",
       file: null,
