@@ -7,7 +7,7 @@ if (navigator.userAgent.includes("Firefox")) {
 
 importScripts(
 	"/$/scramjet.wasm.wasm",
-	"/$/scramjet.shared.js",
+	"/$/scramjet.bundle.js",
 	"/$/scramjet.all.js"
 );
 
